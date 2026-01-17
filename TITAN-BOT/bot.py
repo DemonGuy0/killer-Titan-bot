@@ -70,7 +70,7 @@ bot = Client(
     api_id=API_ID,
     api_hash=API_HASH,
     phone_number=MOBILE_NUMBER,
-    session_string= "USERBOT.session"
+    session_string= "USERBOT.session",
     app_version=VERSION,
     device_model=ENGINE
 )
