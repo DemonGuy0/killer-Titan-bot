@@ -8,6 +8,6 @@ TARGET_CHANNEL = -1002156709388 #EL FACHO  # Reemplaza con el ID de tu canal pri
 LOG_CHANNEL = -1002056894254
 VERSION = '0.1.6'
 ENGINE = 'USERBOT'
-SESSION_STRING = 'USERBOT.session-journal' # Reemplaza con tu cadena de sesión si es necesario
+SESSION_STRING = 'USERBOT.session' # Reemplaza con tu cadena de sesión si es necesario
 GROQ = ''
 #HF_API_KEY = '' # Reemplaza con tu clave de API de Hugging Face si es necesario
